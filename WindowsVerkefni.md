@@ -1,5 +1,5 @@
 #### Lab 10.3.1.1 : búið
-####
+![image](https://user-images.githubusercontent.com/114400552/212333508-1589f9e7-fbcd-4d4c-81ec-6d36852810f9.png)
 ####
 ####
 ####
