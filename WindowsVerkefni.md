@@ -7,7 +7,7 @@
 #### 3. Roll back driver, þetta er bara notað þegar þú downloadar driver og downloadið corruptast og þá gætir þú þurft að "roll backa" updatinu sem þýir bara að þú ferð á gamlan driver. 
 #### 4. Disable Device, þessi takki slekkur á partinum. 
 #### 5. Uninstall Driver, þetta getur þú notað þegar þú þarft að uninstalla drivernum af tölvunni. 
-#### B) Hvað getur þú gert til að bæta upplifunina þína? Ég persónulega myndi byrja á því að downloada Chrome frá Google, svo getur þú fundið fullt af forritum á netinu fyrir þín þörf. Viltu hlusta á tónlist : Spotify eða Soundcloud. Viltu spila leiki : Steam, Ubisoft, Origin og fullt fleirra. 
+#### B) Hvað getur þú gert til að bæta upplifunina þína? Ég persónulega myndi byrja á því að downloada Chrome frá Google, svo getur þú fundið fullt af forritum á netinu fyrir þín þörf. Viltu hlusta á tónlist : Spotify eða Soundcloud. Viltu spila leiki : Steam, Ubisoft, Origin og fullt fleirra, og 100% downloada driveranna sem þú þarft
 ### Lab 3.1.2.5 :
 #### A) Hvaða takki eða takkar þarft þú að nota til að opna BIOS : F2 og DEL,
 #### B) Hver er framleiðandi BIOS : American Megatrends
