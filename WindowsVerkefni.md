@@ -20,9 +20,9 @@
 #### A) Hver er sjálfgefin uppsetningarstaður fyrir Packet Tracer : C:\Program Files\Cisco Packet Tracer 8.2.0
 #### B) Afhverju mælir Microsoft með að nota "Uninstall" og "change a program" í staðinn fyrir að finna forritið í file explorer og eyða því þar? : Útaf því þegar þú downloadar forriti þá fara oftast fileinn á nokkra staði of á C: og D: þannig þegar þú ferð og eyðir sjálfur í File Explorer þá er oft eitthvað af forritinu eftir á hinum disknum.
 ### Lab 10.2.1.8 - Create a Partition in Windows
-####
-####
-####
-####
-####
+#### A) hvaða týpu af File systemi notar nýji diskurinn : FAT32
+#### B) Hversu mikið að lausu plássi er sýnt : 1.94GB
+#### C) Hvaða flipa er fundið í properties af NEW VOLUME(I:) : General, Tools, Hardware, Sharing, Costomize, Pervious Versions og ReadyBoost
+#### D) Hvaða flipar koma upp í properties af ITE Test Document : General, Details, Previous Versions
+#### 
 ####
