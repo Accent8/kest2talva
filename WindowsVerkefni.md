@@ -22,7 +22,19 @@
 ### Lab 10.2.1.8 - Create a Partition in Windows
 #### A) hvaða týpu af File systemi notar nýji diskurinn : FAT32
 #### B) Hversu mikið að lausu plássi er sýnt : 1.94GB
-#### C) Hvaða flipa er fundið í properties af NEW VOLUME(I:) : General, Tools, Hardware, Sharing, Costomize, Pervious Versions og ReadyBoost
+#### C) Hvaða flipa er fundið í properties af NEW VOLUME(I:) : General, Tools, Hardware, Sharing, Customize, Pervious Versions og ReadyBoost
 #### D) Hvaða flipar koma upp í properties af ITE Test Document : General, Details, Previous Versions
-#### 
-####
+#### E) Hvað gerist ef þú kreyrir command prompt ekki sem administator? : Það mun ekki leyfa þér að keyra admin commands sem þú þarft til þess að gera einhverjar stórar breytur á tölvunni eins og að breyta týpu af File systemi eins og við vorum að gera 
+#### F) Hvaða File system er núna notað fyrir ITE(I:) : NTFS
+#### G) Hvaða flipar eru núna í properties glugganum fyrir ITE(I:) : General, Tools, Hardware, Sharing, Security, Customize, Quota, Previous Versions, ReadyBoost 
+#### H) Þegar diskurinn var FAT32 voru 6 flipar í properties núna eru 8. Hvað heita nýju fliparnir þegar disknum var breytt í NTFS : Quota og Security
+#### I) Hverjir eru fliparnir í properties á ITE Test Document : General, Properties, Details, Previous Versions
+#### J) Þegar diskurinn var FAT32 voru 3 flipar í properties núna eru 4 á ITE Test Document. Hvað heiti nýji flipinn eftir að disknum var breytt í NTFS : Security
+#### K) Afhverju er búið að bæta Security á allt geymt á disk með NTFS file systemi : Leyfir admins að hafa meiri stjórn á hver kemst hvert og hvað þú getur opnað og á að auka öryggi
+### LAB 11.1.2.10 Explore the Windows Desktop
+#### A) Hver eru merkinn á Desktopinu : Recycle Bin, Google Chrome og Cisco Packet Tracer
+#### B) hverskonar upplýsingar eru á Desktopinu og Taskbarinu : eiginlega einginn, bara merki fyrir forritinn þín, nema í taskbar ertu með search bar sem þú getur notað til að finna allt á tölvunni þinni og leitað á netinnu og svo start takkin eða windows takking þar sem forrit eru og fleirra, svo hægra megin á taskbar kemur tímasettning og dagsettning.
+#### C) nefndu sum forrit í start menuinu : 3D viewer, Cisco Packet Tracer, Cortana og Google Chrome.
+#### D) right klikkaðu á forrit í start menu og nefndu hvað þú getur gert : Pin to start, More : Pin to taskbar, run as admin, open file location, remove from this list, clear list og svo uninstall.
+#### E) Hverjar eru stillingarnar í Taskbar settings : Lock the Taskbar, automaticly hide the taskbar in desktop mode, automaticly hide the taskbar in tablet mode, use small taskabar buttons, use peek to preview the desktop when you move your mouse to the "Show Desktop" button at the end of the taskbar, Replace command prompt with windows powershell in the menu when i right-click the start button or press Windows key+x, show badges on the taskbar buttons, taskbar location, combine taskbar buttons, Multiple displays : show taskbar on all displays, show taskbar buttons on, combine buttons on other taskbars, News and Interests : show news and interest on the taskbar, change how news and interest appears on the taskbar, hover to open news and interest from the taskbar, reduce updates to news and interest on the taskbar, People : show contacts on the taskbar, choose how many contacts show, show my people notifications, play a sound when a my people notification arrives, show my people app suggestions.
+#### Hverjar eru stillingarnar í Task View : engar sem ég fann leyfir þér bara að bæta við desktops
