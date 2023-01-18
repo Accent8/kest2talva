@@ -54,13 +54,13 @@
 #### H) Right click the memory tab and go to resource values > memory > precents what affect does this have on the memory column : sýnir þér hvað hvaða process notar mikið af memory í prósentum. How could this be useful : Getur verið næs að sjá það í prósentum í staðinn fyrir MBs ef þú skilur ekki mikið um tölvur þá hjálpar þér að skilja þetta aðeins eins og Chrome er að nota 318.3 MB af memory en ef í prósentum er það  9.6% þetta gætir hjálpað þér að skilja betur.  
 #### I) Click the Name heading in Task manager, the listed processes are divided by catagories, what catagories are listed? : Apps, Background processes og Windows processes.
 #### J) Click the Users tab. Right click a user name, what are the available options? : Expand, Disconnect, Manage user accounts. 
-#### K) 
-####
-####
-####
-####
-####
-####
+#### K) The startup tab, right click a process and list the available options : Expand, Disable, Open file location, Search online og Properties. 
+#### L) The App history tab, What kind of information can you get from this list : Hér getur þú séð CPU time, Net notkun af forritunum, Metered network og Tile Updates.
+#### M) The Details tab, right click a process and list the available options : End task, End process tree, provide feedback, set priority, set affinity, analyze wait chain, UAC virtualization, create dump file, open file location, search online, properties, go to service(s).
+#### N) Why is it important for an admininistrator to understand how to work within the Task manger? hér getur hann séð mikilvægar upplýsingar um hvernig talvann er að vinna og hvað er að nota hvað.
+#### sleppi hér við ABC og nota bara tölur í staðinn :)
+### Lab 11.1.4.11 - Working with File Explorer
+#### 1) 
 ####
 ####
 ####
