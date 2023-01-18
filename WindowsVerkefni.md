@@ -46,7 +46,8 @@
 #### B) Open the web browser again and right click the web browser in Task manager. What are the options available? : Switch to, End task, Provide feedback, Debug, Create dump file, Run new task, Always on top, Go to details, Open file location, Search Online og properties.
 #### C) Go to more details and open Services window, what statuses are listed? : Stopped og Running.
 #### D) Right click on one of the services listed, what are the available actions that can be taken? : Start, Stop, Restart, Open Services, Search Online og Go to details
-#### D) Open CPU in Preformance tab, 1) what is the current utilization of the CPU? 0% proof :
+#### D) Open CPU in Preformance tab, 1) what is the current utilization of the CPU? 0% proof : ![image](https://user-images.githubusercontent.com/114400552/213222805-d85f3006-ce14-42df-8af8-f3a9c716d16e.png)
+
 ####
 ####
 ####
