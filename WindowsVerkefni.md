@@ -65,8 +65,8 @@
 #### 3) how would you make a copy of the text document? : ctrl+c svo ctrl+v eða right clicka á documentið og ýta á copy og svo right clicka á hvíta bakgrunning inni í Folder1 og ýta á paste
 #### 4) Right click the document in Folder2, what are the attributes associated with this file? : A
 #### 5) Now Create Folder3 in Folder2, what is the complete path to Folder3? : C:\Users\Nemandi\Desktop\Folder1\Folder2\Folder3
-####
-####
+#### 6) Which directories are listed under Folders? enginn
+#### 7) Drag and Drop Folder1 to Quick Access : 
 ####
 ####
 ####
