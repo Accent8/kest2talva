@@ -66,18 +66,18 @@
 #### 4) Right click the document in Folder2, what are the attributes associated with this file? : A
 #### 5) Now Create Folder3 in Folder2, what is the complete path to Folder3? : C:\Users\Nemandi\Desktop\Folder1\Folder2\Folder3
 #### 6) Which directories are listed under Folders? enginn
-#### 7) Drag and Drop Folder1 to Quick Access : Þetta gerðist ![image](https://user-images.githubusercontent.com/114400552/213243988-b98b117b-ca8e-4d9a-ad69-08e559a17e03.png) Folder1 er núna í Qucik Access tabinu, Why could this be useful? þetta getur verið næs ef þú ert oft að opna folderið þá er það alltaf þarna í quick access fyrir þig eins og nafnið segir fyrir skjótan aðgang
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
+#### 7) Drag and Drop Folder1 to Quick Access : Þetta gerðist ![image](https://user-images.githubusercontent.com/114400552/213243988-b98b117b-ca8e-4d9a-ad69-08e559a17e03.png) Folder1 er núna í Quick Access tabinu, Why could this be useful? þetta getur verið næs ef þú ert oft að opna folderið þá er það alltaf þarna í quick access fyrir þig eins og nafnið segir fyrir skjótan aðgang
+#### 8) Navigate to Local Disck (C:) what are the folders listed in the Local Disk? Intel, PerfLogs, Program Files, Program Files (x86), Users og Windows.
+#### 9) Go to Users and list all folders there? Nemandi og Public.
+#### 10) Open the folder associated with your username, Were you able to open it? explain? ég gat opnað hana útaf ég er með réttindinn að komast inn á mitt heima svæði. 
+#### 11) Open another users user folder, were you able to open it, explain? Nei gat ekki opnað hana þar sem ég hef ekki aðgang þar sem ég er ekki loggaður inn á sá user.
+#### 12) Open the Public folder and list all folders in the directory : Public Documents, Public Downloads, Public Music, Public Pictures og Public Videos.
+#### 13) Open Libraries and list all files in the directory : Camera Roll, Documents, Music, Pictures, Saved Pictures og Videos. 
+#### 14) How would you remove Folder1 from a library without deleting Folder1 and its contents from the computer : Opnaðu File explorer svo libraryið sem þú vilt eyða folderinu út úr, Opnaðu library tools efst á File explorer glugganum og ýttu á manage library. Þar inni velur þú fileið sem þú vilt removea clickar á það ýtir á remove (undir add) og ýtir svo á ok.
+### Lab 11.2.1.5 - Explore Control Panel Categories
+#### 1) Open Control Panel and then View By: what are the viewing options? Category, Large Icons og Small Icons
+#### 2) Name a few of the categories in the Control panel : Systems and Security, Network and Internet, Hardware and Sound, Programs, User Accounts, Appearance and Personalization, Clock and Region og Ease of Access. 
+#### 3) 
 ####
 ####
 ####
