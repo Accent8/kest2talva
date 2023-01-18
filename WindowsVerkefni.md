@@ -66,7 +66,7 @@
 #### 4) Right click the document in Folder2, what are the attributes associated with this file? : A
 #### 5) Now Create Folder3 in Folder2, what is the complete path to Folder3? : C:\Users\Nemandi\Desktop\Folder1\Folder2\Folder3
 #### 6) Which directories are listed under Folders? enginn
-#### 7) Drag and Drop Folder1 to Quick Access : 
+#### 7) Drag and Drop Folder1 to Quick Access : Þetta gerðist ![image](https://user-images.githubusercontent.com/114400552/213243988-b98b117b-ca8e-4d9a-ad69-08e559a17e03.png) Folder1 er núna í Qucik Access tabinu, Why could this be useful? þetta getur verið næs ef þú ert oft að opna folderið þá er það alltaf þarna í quick access fyrir þig eins og nafnið segir fyrir skjótan aðgang
 ####
 ####
 ####
