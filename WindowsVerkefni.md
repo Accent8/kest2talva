@@ -33,8 +33,68 @@
 #### K) Afhverju er búið að bæta Security á allt geymt á disk með NTFS file systemi : Leyfir admins að hafa meiri stjórn á hver kemst hvert og hvað þú getur opnað og á að auka öryggi
 ### LAB 11.1.2.10 Explore the Windows Desktop
 #### A) Hver eru merkinn á Desktopinu : Recycle Bin, Google Chrome og Cisco Packet Tracer
-#### B) hverskonar upplýsingar eru á Desktopinu og Taskbarinu : eiginlega einginn, bara merki fyrir forritinn þín, nema í taskbar ertu með search bar sem þú getur notað til að finna allt á tölvunni þinni og leitað á netinnu og svo start takkin eða windows takking þar sem forrit eru og fleirra, svo hægra megin á taskbar kemur tímasettning og dagsettning.
+#### B) hverskonar upplýsingar eru á Desktopinu og Taskbarinu : eiginlega einginn, bara merki fyrir forritinn þín, nema í taskbar ertu með search bar sem þú getur notað til að finna flest á tölvunni þinni og leitað á netinnu og svo start takkin eða windows takking þar sem forrit eru og fleirra, svo hægra megin á taskbar kemur tímasettning og dagsettning.
 #### C) nefndu sum forrit í start menuinu : 3D viewer, Cisco Packet Tracer, Cortana og Google Chrome.
 #### D) right klikkaðu á forrit í start menu og nefndu hvað þú getur gert : Pin to start, More : Pin to taskbar, run as admin, open file location, remove from this list, clear list og svo uninstall.
 #### E) Hverjar eru stillingarnar í Taskbar settings : Lock the Taskbar, automaticly hide the taskbar in desktop mode, automaticly hide the taskbar in tablet mode, use small taskabar buttons, use peek to preview the desktop when you move your mouse to the "Show Desktop" button at the end of the taskbar, Replace command prompt with windows powershell in the menu when i right-click the start button or press Windows key+x, show badges on the taskbar buttons, taskbar location, combine taskbar buttons, Multiple displays : show taskbar on all displays, show taskbar buttons on, combine buttons on other taskbars, News and Interests : show news and interest on the taskbar, change how news and interest appears on the taskbar, hover to open news and interest from the taskbar, reduce updates to news and interest on the taskbar, People : show contacts on the taskbar, choose how many contacts show, show my people notifications, play a sound when a my people notification arrives, show my people app suggestions.
-#### Hverjar eru stillingarnar í Task View : engar sem ég fann leyfir þér bara að bæta við desktops
+#### F) Hverjar eru stillingarnar í Task View : engar sem ég fann leyfir þér bara að bæta við desktops
+#### G) Hvað gerist ef þú opnar forrit á Desktop 2 sem er opið á Desktop 1 : eiginlega ekkert opnar bara nýjan glugga
+#### H) Hver eru Notificationinn sem eru í notification tabinu : enginn :)
+#### I) Hvað getur þú gert í Notification og Action center núna : Núna getur þú breytt flest öllum stillingum í tölvunni
+### Lab 11.1.3.4 - Work with Task Manager
+#### A) Hvað gerist ef þú ýtir á "End Task" á web browser í Task manager : Forritið slekkur á sér.
+#### B) Open the web browser again and right click the web browser in Task manager. What are the options available? : Switch to, End task, Provide feedback, Debug, Create dump file, Run new task, Always on top, Go to details, Open file location, Search Online og properties.
+#### C) Go to more details and open Services window, what statuses are listed? : Stopped og Running.
+#### D) Right click on one of the services listed, what are the available actions that can be taken? : Start, Stop, Restart, Open Services, Search Online og Go to details
+#### D) Open CPU in Preformance tab, 1) what is the current utilization of the CPU? 0% proof :
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
