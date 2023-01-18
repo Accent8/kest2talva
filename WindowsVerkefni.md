@@ -60,11 +60,11 @@
 #### N) Why is it important for an admininistrator to understand how to work within the Task manger? hér getur hann séð mikilvægar upplýsingar um hvernig talvann er að vinna og hvað er að nota hvað.
 #### sleppi hér við ABC og nota bara tölur í staðinn :)
 ### Lab 11.1.4.11 - Working with File Explorer
-#### 1) 
-####
-####
-####
-####
+#### 1) Make a folder name it Folder1 and another Folder2 move Folder2 into Folder1 what happend to Folder1 and Folder2 on the desktop : Folder2 er inni í Folder1 þannig hún er ekki lengur á desktop en Folder1 er enþá á desktop.
+#### 2) Make a text document in Folder1, what is the file extension for the text document : .txt.
+#### 3) how would you make a copy of the text document? : ctrl+c svo ctrl+v eða right clicka á documentið og ýta á copy og svo right clicka á hvíta bakgrunning inni í Folder1 og ýta á paste
+#### 4) Right click the document in Folder2, what are the attributes associated with this file? : A
+#### 5) 
 ####
 ####
 ####
