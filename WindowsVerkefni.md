@@ -47,9 +47,8 @@
 #### C) Go to more details and open Services window, what statuses are listed? : Stopped og Running.
 #### D) Right click on one of the services listed, what are the available actions that can be taken? : Start, Stop, Restart, Open Services, Search Online og Go to details
 #### D) Open CPU in Preformance tab, 1) what is the current utilization of the CPU? 0% proof : ![image](https://user-images.githubusercontent.com/114400552/213222805-d85f3006-ce14-42df-8af8-f3a9c716d16e.png)
-
-####
-####
+#### 2) How many streams of instructions (i.e. Threads) are currently running : 1280. 3) How Many Apps, Background processes and Windows processes are currently running? : 134
+#### E) Click on the Memory Chart in preformances tab 1) What is the total physical memory in MB? : 8 GB = 8000 MB 2) What is the available physical memory in MB? : 5.1 GB = 5100 MB 3) How much physical memory in MB is being used by the computer? : 2.4GB = 2400 MB. 
 ####
 ####
 ####
