@@ -49,12 +49,12 @@
 #### D) Open CPU in Preformance tab, 1) what is the current utilization of the CPU? 0% proof : ![image](https://user-images.githubusercontent.com/114400552/213222805-d85f3006-ce14-42df-8af8-f3a9c716d16e.png)
 #### 2) How many streams of instructions (i.e. Threads) are currently running : 1280. 3) How Many Apps, Background processes and Windows processes are currently running? : 134
 #### E) Click on the Memory Chart in preformances tab 1) What is the total physical memory in MB? : 8 GB = 8000 MB 2) What is the available physical memory in MB? : 5.1 GB = 5100 MB 3) How much physical memory in MB is being used by the computer? : 2.4GB = 2400 MB. 
-####
-####
-####
-####
-####
-####
+#### F) Click the Ethernet tab in preformance 1) What is the link speed, What type of Ethernet Adapter is in use on this computer? : Link speed 100 Mbps, Ethernet Adapter Realtek PCIe GbE Family Controller. 2) What type of network connection is in use : Ethernet. 3) what is the IPv4 address of the pc : 10.11.214.55
+#### G) Click the Processes tab and click memory heading 2 times what effect does this have on the columns : það raðar proccessunum upp frá því sem nota minnst til mest memory. 
+#### H) Right click the memory tab and go to resource values > memory > precents what affect does this have on the memory column : sýnir þér hvað hvaða process notar mikið af memory í prósentum. How could this be useful : Getur verið næs að sjá það í prósentum í staðinn fyrir MBs ef þú skilur ekki mikið um tölvur þá hjálpar þér að skilja þetta aðeins eins og Chrome er að nota 318.3 MB af memory en ef í prósentum er það  9.6% þetta gætir hjálpað þér að skilja betur.  
+#### I) Click the Name heading in Task manager, the listed processes are divided by catagories, what catagories are listed? : Apps, Background processes og Windows processes.
+#### J) Click the Users tab. Right click a user name, what are the available options? : Expand, Disconnect, Manage user accounts. 
+#### K) 
 ####
 ####
 ####
