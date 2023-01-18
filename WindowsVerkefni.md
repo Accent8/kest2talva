@@ -64,7 +64,7 @@
 #### 2) Make a text document in Folder1, what is the file extension for the text document : .txt.
 #### 3) how would you make a copy of the text document? : ctrl+c svo ctrl+v eða right clicka á documentið og ýta á copy og svo right clicka á hvíta bakgrunning inni í Folder1 og ýta á paste
 #### 4) Right click the document in Folder2, what are the attributes associated with this file? : A
-#### 5) Now Create Folder3 in Folder2, what is the complete path to Folder3? : 
+#### 5) Now Create Folder3 in Folder2, what is the complete path to Folder3? : C:\Users\Nemandi\Desktop\Folder1\Folder2\Folder3
 ####
 ####
 ####
