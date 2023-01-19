@@ -77,24 +77,85 @@
 ### Lab 11.2.1.5 - Explore Control Panel Categories
 #### 1) Open Control Panel and then View By: what are the viewing options? Category, Large Icons og Small Icons
 #### 2) Name a few of the categories in the Control panel : Systems and Security, Network and Internet, Hardware and Sound, Programs, User Accounts, Appearance and Personalization, Clock and Region og Ease of Access. 
-#### 3) 
+#### 3) Which subcategory would help you troubleshoot common problems? Ef þú ferð inn í Systems and Security þar inni undir Security and Maintenance er takki sem er nefnduur Troubleshoot common computer problems.
+#### 4) Which subcategory allow a program through Windows firewall? En og aftur inni System and Security categoryinu er subcategory sem heitir Windows Firewall og þar er takki sem leyfir þér að hleypa appi í gengum firewallið.
+#### 5) Which Subcategory allows you to view the basic network information and set up connections? Network and Internet, þar inni er subcategory sem heitir Network og Sharing center þar getur þú séð "basic" net upplýsingar.
+#### 6) which subcategory allows you to choose what happens when you insert a media or device? inni í Hardware and sound er subcategory sem heitir Autoplay þar getur þú stjórnað hvað gerist ef þú tengir media device
+#### 7) Which subcategory allows you to add a printer? Hardware and Sound þar inni er subcategory sem heitir "Add a device" og þar getur þú sett up prentara fyrir tölvunna.
+#### 8) Which subcategory would you use to have a specific file type always open in a specified program? Opanðu Programs þar inni er subcategory sem heitir Default programs og eini val möguleikinn þar er til að breyta í hvaða forriti ákveðin file types opna í.
+#### 9) Which subcategory would you use to install the Windows telnet client? Programs þar inni er Programs and Features svo er einn val möguleikinn þar "Turn windows features on or off".
+#### 10) Which Subcategory would you use to uninstall a program? Programs þar inni Programs and Features subcategory og uninstall a program.
+#### User Accounts (læt þetta í staðinn fyrir að skrifa categoryið aftur og aftur)
+#### 11) Which subcategory would you use to change the account type from administrator to standard? User Accounts -> Change account type.
+#### 12) Which subcategory would you use to view, edit or remove the web and windows credentials? Subcategoryið Credential Manager þar getur þú gert bæði.
+#### Appearance and Personalization
+#### 13) Which subcategory would you use to customize the Taskbar? Taskbar and Navigation subcategoryið
+#### 14) Which subcategory would you use to show hidden files and folders? File Explorer Options þar inni er einn val möguleikinn "Show hidden files and folders"
+#### 15) Which subcategory would you use to show extensions for known file types? ????
+#### Clock and Region
+#### 16)
 ####
 ####
 ####
 ####
+#### 
 ####
 ####
 ####
 ####
+#### 
 ####
 ####
 ####
 ####
+#### 
 ####
 ####
 ####
 ####
+#### 
 ####
 ####
 ####
 ####
+#### 
+####
+####
+####
+####
+#### 
+####
+####
+####
+####
+#### 
+####
+####
+####
+####
+#### 
+####
+####
+####
+####
+#### 
+####
+####
+####
+####
+#### 
+####
+####
+####
+####
+#### 
+####
+####
+####
+####
+#### 
+####
+####
+####
+####
+#### 
