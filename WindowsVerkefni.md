@@ -109,10 +109,10 @@
 #### 7) Why would you create a user with standard privileges? Standard user getur ekki gert neitt til að skemma tölvunna og passar upp á öryggi á bæði tölvunni og öðrum notendum
 #### 8) In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them? Getur verið starfsmaður sem er að hætta eða var rekinn og hann er með mikilvægar upplýsingar fyrir fyrirtækið í skjölum á tölvunni sinni.
 ### Lab 11.2.5.8 - Manage Virtual Memory
-#### 
-####
-####
-####
+#### 1) in preformance in system properties, what is the current size of the virtual memory? 1920 MB
+#### 2) What Drive contains the paging file? C: (local disk).
+#### 3) Create a new paging file size, what is the recommended paging file size for all drives? I: 1879 MB og C: 1879 MB
+#### 4) Go back to Virtual Memory window, What Drive contains the paging file? I: [ITE]
 #### 
 ####
 ####
