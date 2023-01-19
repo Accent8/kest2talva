@@ -113,16 +113,16 @@
 #### 2) What Drive contains the paging file? C: (local disk).
 #### 3) Create a new paging file size, what is the recommended paging file size for all drives? I: 1879 MB og C: 1879 MB
 #### 4) Go back to Virtual Memory window, What Drive contains the paging file? I: [ITE]
-#### 
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
+#### 5) Why Would you ever change the default virtual memory page file settings in Windows? Þú þarft þetta varla í dag þannig þú ættir ekkert að þurfa að fikta í því, en ef þú ert með tölvu sem er að vinna 24/7 í einhverjum sér hugbúnaði sem er lélega settur upp gætir þú þurft að breyta þessu
+### Lab 11.2.6.2 - Use Device Manager
+#### 1) What information is listed in the Device Manager window? why would you use it? Device Manager segir þér frá öllum vélbúnaði í tölvunni og þú getur skoðað það þar og breytt stillingunum þeirra þar.
+#### 2) How would you install driver software for an older device that may not be automatically recognized by the Windows operating system? Opnar device manager ferð inn í actions sem er eiginlega efst í glugganum og inni í actions ýtiru á "add legacy hardware"
+#### 3) What additional information does Driver Details provide? Þar getur þú séð hvar á tölvunni þinni driverinn er geymdur eins og fyrir skjáinn okkar er driverinn geymdur á "C:\Windows\system32\DRIVERS\monitor.sys"
+#### 4) Click Update driver, what two options do you have for updating the driver? Getur látið tölvunna leita fyrir þig á tölvunni þinni fyrir driverinn eða þú getur leitað sjálfur ef t.d. þú varst að downloada einum og veist hvar hann er
+#### 5) What does the Roll Back Driver button do? and why would it be grayed out? Leyfir þér að fara á gamlan driver fyrir vélbúnaðinn og takinn er grár útaf því ég er ekki búinn að downloada nýjum driver
+#### 6) What are the other available options in Properties\Driver? Disable device og Uninstall device
+### Lab 11.3.1.11 - Monitor and Manage System Resources
+#### 1) What is the status of Windows Defender Antivirus Network Inspection Service? það er í gangi.
 #### 
 ####
 ####
