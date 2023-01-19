@@ -91,15 +91,15 @@
 #### Appearance and Personalization
 #### 13) Which subcategory would you use to customize the Taskbar? Taskbar and Navigation subcategoryið
 #### 14) Which subcategory would you use to show hidden files and folders? File Explorer Options þar inni er einn val möguleikinn "Show hidden files and folders"
-#### 15) Which subcategory would you use to show extensions for known file types? ????
+#### 15) Which subcategory would you use to show extensions for known file types? ýttu á file explorer options og farðu í view og þar geturu sýnt extentions fyrir þekktar file týpur
 #### Clock and Region
-#### 16)
-####
-####
-####
-####
-#### 
-####
+#### 16) Which subactegory would you use to change the time zone? Date and Time þar er val möguleiki "Change the time zone".
+#### 17) Which subcateory would you use to change the date format? Region þar er eini val möguleikinn að breyta dagsetninga og tíma formatinnu
+#### 18) Which subcategory would you use to synchronize the time on a cpomputer with a specific web server on the internet? ýttu á date and time og einn flipinn í því leyfir þér að samstilla þér við Sever á netinu.
+#### Ease of Access 
+#### 19) Which subcategory would you use to configure the computer to read aloud any text on the screen? Ýttu á Ease of access center og þar inni er val möguleiki "Make the computer easier to use" og þar getur þú kveikt á Narrator með að clicka við "Turn on Narrator"
+#### 20) Which subcategory would you use to improve the computers ability to understand your voice and improve the dictation accuracy? Ýttu á "Speech Recognition" og þar inni er val möguleiki "Train your computer to better understand you" og þannig gerir þú það
+### 
 ####
 ####
 ####
