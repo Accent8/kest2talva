@@ -99,17 +99,17 @@
 #### Ease of Access 
 #### 19) Which subcategory would you use to configure the computer to read aloud any text on the screen? Ýttu á Ease of access center og þar inni er val möguleiki "Make the computer easier to use" og þar getur þú kveikt á Narrator með að clicka við "Turn on Narrator"
 #### 20) Which subcategory would you use to improve the computers ability to understand your voice and improve the dictation accuracy? Ýttu á "Speech Recognition" og þar inni er val möguleiki "Train your computer to better understand you" og þannig gerir þú það
-### 
-####
-####
-####
+### Lab 11.2.2.3 - User Accounts
+#### 1) What can a user do with a limited account? Notandinn getur notað flest forrit og breytt nokkrum stillingum í tölvunni
+#### 2) What limitations does this type of an account have? Notandinn getur ekki breytt stillingum sem mun hafa áhrif á aðra notanda á tölvunni eða öryggi tölvunnar.
+#### 3) Create a new account, What inforamtion is listed for the new account? það kemur nafnið á Accountinum og hvers konar týpa af account sem fyrir okkur er standard account.
+#### 4) What is the advantage of having most users work within a Standard user account? Standard account getur komið í veg fyrir að Notendur eyði eða breyti fileum og stillingum sem hefur áhrif á tölvunna eða aðra notendur
+#### 5) Select Delete the Account then Delete Files, what are the options? when would you choose the other options? Ég fékk bara Delete the account og svo cancel, þannig velja hinn möguleikan (cancel) éf þú færð samviskubit eða eitthvað lol
+#### 6) Why is it important to protect all accounts with strong password? Sterk lykilorð getur stoppað fólk sem á ekki að vera á þessum account að komast inn á hann, og stoppar líka aðgang að tölvunni svo það getur ekki einhver stolið fileum af tölvunni
+#### 7) Why would you create a user with standard privileges? Standard user getur ekki gert neitt til að skemma tölvunna og passar upp á öryggi á bæði tölvunni og öðrum notendum
+#### 8) In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them? Getur verið starfsmaður sem er að hætta eða var rekinn og hann er með mikilvægar upplýsingar fyrir fyrirtækið í skjölum á tölvunni sinni.
+### Lab 11.2.5.8 - Manage Virtual Memory
 #### 
-####
-####
-####
-####
-#### 
-####
 ####
 ####
 ####
