@@ -128,10 +128,10 @@
 #### 4) In notepad click File then Print, list the printers: Fax, Microsoft print to pdf, microsoft xps document writer og onenote for windows 10.
 #### 5) Stop print spool and attempt to print the note again, what message did you recive and how would you fix this?
 #### Skilaboð : ![image](https://user-images.githubusercontent.com/114400552/213712349-205fc502-4737-46f2-bf8a-fe5ac4bb6e8c.png)
-#### 
-####
-####
-####
+#### hvernig myndir þú laga þetta fyrst af öllu ef þú ert með prentara fylgja leiðbeningunum sem skilaboðinn gefa þér eða bara ýta á cancel og kveikja aftur á print spool.
+#### 6) When DHCP client stops, what other services will also be stopped? IP Helper, WinHTTP Web Proxy Auto-Discovery Services, Network List Service, Network Location Awareness.
+#### 7) Why is it important to exercise care when managin services? Forrit og önnur þjónusta getur verið háð því að tiltekin þjónusta virki. Stöðvun þjónustu getur komið í veg fyrir rekstur annarrar þjónustu.
+#### 8) What is the full path to the example file name?
 ####
 #### 
 ####
