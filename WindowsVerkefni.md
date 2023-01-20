@@ -127,7 +127,7 @@
 #### 3) In the general tab what is listed as the source of the event? what is the severity level? Source : Security Center og severity level er 4.
 #### 4) In notepad click File then Print, list the printers: Fax, Microsoft print to pdf, microsoft xps document writer og onenote for windows 10.
 #### 5) Stop print spool and attempt to print the note again, what message did you recive and how would you fix this?
-#### Skilaboð : 
+#### Skilaboð : ![image](https://user-images.githubusercontent.com/114400552/213712349-205fc502-4737-46f2-bf8a-fe5ac4bb6e8c.png)
 #### 
 ####
 ####
