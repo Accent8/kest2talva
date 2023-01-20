@@ -123,11 +123,11 @@
 #### 6) What are the other available options in Properties\Driver? Disable device og Uninstall device
 ### Lab 11.3.1.11 - Monitor and Manage System Resources
 #### 1) What is the status of Windows Defender Antivirus Network Inspection Service? það er í gangi.
-#### 
-####
-####
-####
-####
+#### 2) Turn of Windows Defender and go back into control panel services, what is the status of Windows Defender now? Það er ekkert þar sem það er slökkt á Windows Defender.
+#### 3) In the general tab what is listed as the source of the event? what is the severity level? Source : Security Center og severity level er 4.
+#### 4) In notepad click File then Print, list the printers: Fax, Microsoft print to pdf, microsoft xps document writer og onenote for windows 10.
+#### 5) Stop print spool and attempt to print the note again, what message did you recive and how would you fix this?
+#### Skilaboð : 
 #### 
 ####
 ####
