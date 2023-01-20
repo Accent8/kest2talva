@@ -132,25 +132,25 @@
 #### 6) When DHCP client stops, what other services will also be stopped? IP Helper, WinHTTP Web Proxy Auto-Discovery Services, Network List Service, Network Location Awareness.
 #### 7) Why is it important to exercise care when managin services? Forrit og önnur þjónusta getur verið háð því að tiltekin þjónusta virki. Stöðvun þjónustu getur komið í veg fyrir rekstur annarrar þjónustu.
 #### 8) What is the full path to the example file name? C:\PerfLogs\DESKTOP-4H3P1IO_20230120-000001\DataCollector01.csv
-####
-#### 
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-#### 
-####
-####
+#### 9) What does the column farthest to the right show? Hversu mörg Megabytes af ram er laust
+### Lab 11.3.2.7 - System Utilities
+#### 1)What was the path you used to navigate to the Event viewer from your console? Hreimurs Console\Management Tools\Computer Management (Local)\System Tools\Event Viewer.
+#### 2) Right click the desktop and select personalize, What is the background picture? bara venjulega windows 10 bakgrunnurinn.
+#### 3) What is the data value of background? 0,99,177 aka RGB.
+#### 4) after exporting color folder onto desktop, what is the value og Background? 0 99 177 RGB
+#### 5) change the desktop color to red, what is the new value og Background in the Registry editor? 232 17 35 RGB
+#### 6) What are the values compared to the values in BlueBKG? Registry Editor : 232 17 35, BlueBKG : 0 99 177.
+#### 7) import BlueBKG back into registry editor what is the new value og Background? 0 99 177
+#### 8) What is the color of the background? bakgrunnurinn er rauður enþá
+#### 9) Restart the computer, what is the color of the background now? Litur er búinn að breytast í bláan.
+#### 10) Why would it be beneficial to add snap ins to the mmc that are for other computers on the network? Það myndi gera það auðvelt að stilla og fylgjast með öðrum tölvum sem eru ekki með skjái, lyklaborð eða mýs, eða eru ekki aðgengilegar.
+#### 11) After restarting the computer, why was the dekstop color changed? Útaf því að ég breytti valueunum á backgrunns stillingunni og þurfti bara að restarta svo að talvann myndi fara aftur í geng og sjá breytinguna
+### Lab 11.3.2.8 - Manage System Files
+#### 1) Under the System Summary heading locate and list the following : 
+#### 1) processor : Intel Core i3-4160
+#### 2) BIOS version/date : Amercian Megatrends INC. P1.60 12/22/2015
+#### 3) Total physical memory : 8GB
+#### 4) Under Hardware Resources heading how many DMA channels and device using the controller? Channel 4 og deviceið var Direct memory controller.
 ####
 ####
 #### 
