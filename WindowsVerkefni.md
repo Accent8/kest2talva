@@ -131,7 +131,7 @@
 #### hvernig myndir þú laga þetta fyrst af öllu ef þú ert með prentara fylgja leiðbeningunum sem skilaboðinn gefa þér eða bara ýta á cancel og kveikja aftur á print spool.
 #### 6) When DHCP client stops, what other services will also be stopped? IP Helper, WinHTTP Web Proxy Auto-Discovery Services, Network List Service, Network Location Awareness.
 #### 7) Why is it important to exercise care when managin services? Forrit og önnur þjónusta getur verið háð því að tiltekin þjónusta virki. Stöðvun þjónustu getur komið í veg fyrir rekstur annarrar þjónustu.
-#### 8) What is the full path to the example file name?
+#### 8) What is the full path to the example file name? C:\PerfLogs\DESKTOP-4H3P1IO_20230120-000001\DataCollector01.csv
 ####
 #### 
 ####
