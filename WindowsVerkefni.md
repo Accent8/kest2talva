@@ -165,14 +165,14 @@
 #### 16) When would you use the startup tab of the system configuration tool? Þú gætir verið með forrit sem byrjar með tölvunni sem þú vilt að byrji ekki með tölvunni og þar getur þú slökkt á því
 ### Lab 11.4.1.5 - Work in the Windows Command Shell
 #### 1) Open Command Prompt and type in "help | more" what happens when you press enter? það prentar út næstu línu eina í einu.
-#### | Íhlutur     | Tegund |
-#### | :---        |    :----   |
-#### | Cpu    | Intel I-3 4160 @ 3.60 GHz       |
-#### | Móðurborð   | ASRock B85 Anniversary      |
-#### | Vinsluminni        | G.Skill DDR3 8GB @ 1600 MHZ (Stóð ekkert um eitthvað nafn bara stærð og hraða en ramið er rautt :).)    |
-#### | SSD/Harðurdiskur        | Silicon Power 60GB SSD     |
-#### | Aflgjafi        | Power LC420H-12 420W       |
-#### | Kassi      | CoolerMaster Mid Tower      |
+| Command    | Function |
+| :---        |    :----   |
+| Cpu    | Intel I-3 4160 @ 3.60 GHz       |
+| Móðurborð   | ASRock B85 Anniversary      |
+| Vinsluminni        | G.Skill DDR3 8GB @ 1600 MHZ (Stóð ekkert um eitthvað nafn bara stærð og hraða en ramið er rautt :).)    |
+| SSD/Harðurdiskur        | Silicon Power 60GB SSD     |
+| Aflgjafi        | Power LC420H-12 420W       |
+| Kassi      | CoolerMaster Mid Tower      |
 ####
 ####
 ####
