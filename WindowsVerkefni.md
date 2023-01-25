@@ -165,6 +165,7 @@
 #### 16) When would you use the startup tab of the system configuration tool? Þú gætir verið með forrit sem byrjar með tölvunni sem þú vilt að byrji ekki með tölvunni og þar getur þú slökkt á því
 ### Lab 11.4.1.5 - Work in the Windows Command Shell
 #### 1) Open Command Prompt and type in "help | more" what happens when you press enter? það prentar út næstu línu eina í einu.
+#### 2) What do the following commands do
 | Command    | Function |
 | :---        |    :----   |
 | CD | Sýnir nafnið á möppunni sem þú ert í eða leyfir þér að skipta um möppu t.d. að fara upp úr möppunni þinni eða fara í möppu inní möppunni sem þú ert í       |
@@ -182,19 +183,19 @@
 | ROBOCOPY | Tól til að afrita skrár og möppu tré |
 | SHUTDOWN | Leyfir notanda að slökkva á tölvunni hvort sem hann er hjá tölvunni eða í fjarska |
 | XCOPY | Afritar skrár og möppu tré. |
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
+#### 3) How would you create the following folders C:\Users\Nemandi\a\b\c : með því að slá inn mkdir a\b\c en passaðu að þú sér á rétta stað þegar þú gerir möppurnar
+#### 4) What command would you use to verify the creation of the nested directories? þú getur notað dir til að list-a directory-inn og svo cd til að breyta directory-i (eða hvar þú ert)
+#### 5) Clear the screen using the command line, what command did you use? cls (fann hana með help | more vissi ekki hvernig ég ætti að gera það)
+#### 6) press F7 on the keyboard what is the last command you used? cls til að þrífa gluggan.
+#### 7) Press the upp arrow to display the last command used, what is the last command? cls.
+### Lab 11.4.2.7 - File System Commands
+#### 1) Open commmand prompt and type cd, what is the current directory? C:\Users\Nemandi
+#### 2) Type "cd ITEfolder3" what folder are you in now? ITEfolder3
+#### 3) In the current directory create "ITEfolder4" and in that folder create "ITEfolder5" what commands did you use to create the nested folders? mkdir ITEfolder4\ITEfolder5
+#### 4) Go into ITEfolder5 and then type cd .. what is your current Directory now C:\Users\Nemandi\ITEfolder3\ITEfolder4? 
+#### 5) What would be the Directory if you would type in cd .. in C:\Users\Nemandi\ITEfolder3\ITEfolder4? C:\Users\Nemandi\ITEFolder4
+#### 6) What single command would you use  to delete all the files with doc2 in the filename? del doc2*
+#### 7) What command would you use to delete all the files in the directory? del "*.*"
 #### 
 ####
 ####
