@@ -161,7 +161,7 @@
 #### 12) What information is on the Sound page? Upplýsingar um Device-ið og Driver-inn
 #### 13) What information is on the Input page? Listi af öllum input tækjum tengt við tölvunna
 #### 14) List any additional tabs in your DirectX Diagnostic Tool and their information: það voru ekki fleiri tabs í DirectX Diagnostic Tool hjá mér 
-#### 15) Why would it be beneficial to turn off a service  in the system configuration? það gæti verið gotta að get slökkt á forriti ef til dæmis það frís
+#### 15) Why would it be beneficial to turn off a service  in the system configuration? það gæti verið gotta að get slökkt á forriti ef til dæmis það frís, eða ef það byrjar að nota of mikið af resources af tölvunni *cough cough* Google Chrome *cough cough*
 ####
 ####
 ####
