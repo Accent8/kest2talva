@@ -167,7 +167,7 @@
 #### 1) Open Command Prompt and type in "help | more" what happens when you press enter? það prentar út næstu línu eina í einu.
 | Command    | Function |
 | :---        |    :----   |
-| Cpu    | Intel I-3 4160 @ 3.60 GHz       |
+| CD    | Sýnir nafnið á möppu sem þú ert í eða leyfir þér að skipta um möppu t.d. að fara upp úr möppunni þinni eða fara í möppu inní möppunni sem þú ert í       |
 | Móðurborð   | ASRock B85 Anniversary      |
 | Vinsluminni        | G.Skill DDR3 8GB @ 1600 MHZ (Stóð ekkert um eitthvað nafn bara stærð og hraða en ramið er rautt :).)    |
 | SSD/Harðurdiskur        | Silicon Power 60GB SSD     |
