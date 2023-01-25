@@ -149,13 +149,13 @@
 #### 1) Under the System Summary heading locate and list the following : 
 #### 1) processor : Intel Core i3-4160
 #### 2) BIOS version/date : Amercian Megatrends INC. P1.60 12/22/2015
-#### 3) Total physical memory : 8GB
-#### 4) Under Hardware Resources heading how many DMA channels and device using the controller? Channel 4 og deviceið var Direct memory controller.
-####
-####
-#### 
-####
-####
-####
+#### 3) Total physical memory : 7.68GB
+#### 4) Under Hardware Resources heading how many DMA channels and device using the controller? Channel 4 og deviceið var Direct memory access controller.
+#### 5) Under Components list the following Adapter Description and Adapter Ram : Adapter Description er "Intel(R) HD Graphics 4400" og Adapter Ram er 1GB
+#### 6) Where would you finds programs automatically load up when the computer boots in Software Enviornment: inni í Software Enviornment er val möguleiki sem heitir "Startup Programs" þar getur þú séð forrit sem boot-a upp með tölvunni.
+#### 7) Open System Configuration in the General tab what are the startup options? Normal Startup, Diagnostic startup og Selective startup.
+#### 8) in the Services tab can you disable and services? Já þú getur slökkt á þeim með að ýta á check markið hjá þeim.
+#### 9) Click the tools tab, What can you do in this tab? Hérna getur þú ræst inbyggð Windows tools.
+#### 10)
 ####
 #### 
