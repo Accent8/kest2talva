@@ -168,11 +168,20 @@
 | Command    | Function |
 | :---        |    :----   |
 | CD | Sýnir nafnið á möppunni sem þú ert í eða leyfir þér að skipta um möppu t.d. að fara upp úr möppunni þinni eða fara í möppu inní möppunni sem þú ert í       |
-| CHKDSK |      |
-| Vinsluminni        | G.Skill DDR3 8GB @ 1600 MHZ (Stóð ekkert um eitthvað nafn bara stærð og hraða en ramið er rautt :).)    |
-| SSD/Harðurdiskur        | Silicon Power 60GB SSD     |
-| Aflgjafi        | Power LC420H-12 420W       |
-| Kassi      | CoolerMaster Mid Tower      |
+| CHKDSK | Athugar á disk og birtir stöðuskýrslu |
+| COPY | Afritar eina eða fleirri skrár á annan stað |
+| DEL | Eyðir einni eða fleiri skrám |
+| DIR | Sýnir lista af skrám og möppum inni í möppu |
+| DISKPART | Sýnir eða stillir eiginleika diskshluta |
+| EXIT | Lokar CMD.EXE forritinu |
+| FORMAT | Forsníður diskinn fyrir notkun með Windows |
+| GPRESULT | Sýnir stefnu fyrir vél eða notanda |
+| MD | Býr til nýja möppu |
+| TASKLIST | Sýnir öll verkefni og þjónustur sem eru í gangi |
+| RD | Eyðir möppu |
+| ROBOCOPY | Tól til að afrita skrár og möppu tré |
+| SHUTDOWN | Leyfir notanda að slökkva á tölvunni hvort sem hann er hjá tölvunni eða í fjarska |
+| XCOPY | Afritar skrár og möppu tré. |
 ####
 ####
 ####
