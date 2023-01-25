@@ -162,10 +162,17 @@
 #### 13) What information is on the Input page? Listi af öllum input tækjum tengt við tölvunna
 #### 14) List any additional tabs in your DirectX Diagnostic Tool and their information: það voru ekki fleiri tabs í DirectX Diagnostic Tool hjá mér 
 #### 15) Why would it be beneficial to turn off a service  in the system configuration? það gæti verið gotta að get slökkt á forriti ef til dæmis það frís, eða ef það byrjar að nota of mikið af resources af tölvunni *cough cough* Google Chrome *cough cough*
-####
-####
-####
-#### 
+#### 16) When would you use the startup tab of the system configuration tool? Þú gætir verið með forrit sem byrjar með tölvunni sem þú vilt að byrji ekki með tölvunni og þar getur þú slökkt á því
+### Lab 11.4.1.5 - Work in the Windows Command Shell
+#### 1) Open Command Prompt and type in "help | more" what happens when you press enter? það prentar út næstu línu eina í einu.
+#### | Íhlutur     | Tegund |
+#### | :---        |    :----   |
+#### | Cpu    | Intel I-3 4160 @ 3.60 GHz       |
+#### | Móðurborð   | ASRock B85 Anniversary      |
+#### | Vinsluminni        | G.Skill DDR3 8GB @ 1600 MHZ (Stóð ekkert um eitthvað nafn bara stærð og hraða en ramið er rautt :).)    |
+#### | SSD/Harðurdiskur        | Silicon Power 60GB SSD     |
+#### | Aflgjafi        | Power LC420H-12 420W       |
+#### | Kassi      | CoolerMaster Mid Tower      |
 ####
 ####
 ####
