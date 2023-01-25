@@ -195,7 +195,7 @@
 #### 4) Go into ITEfolder5 and then type cd .. what is your current Directory now C:\Users\Nemandi\ITEfolder3\ITEfolder4? 
 #### 5) What would be the Directory if you would type in cd .. in C:\Users\Nemandi\ITEfolder3\ITEfolder4? C:\Users\Nemandi\ITEFolder4
 #### 6) What single command would you use  to delete all the files with doc2 in the filename? del doc2*
-#### 7) What command would you use to delete all the files in the directory? del "*.*"
+#### 7) What command would you use to delete all the files in the directory? del (stjarna).(stjarna)
 #### 
 ####
 ####
