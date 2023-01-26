@@ -206,24 +206,23 @@
 #### 2) What is the name of your partner's computer and shared folder? DESKTOP-JKJ20SJ shared mappan var ShareMA.
 #### 3) Can you open the Breif.txt file on your partners computer? Já gat opnað hana
 #### 4) Can you delete the Breif file? what happens? Fæ glugga upp sem segir mér að ég get ekki eytt henni útaf ég er ekki með leyfið í það
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
+#### 5) in the permission tab what are the default permissions? Default permission leyfir þér bara að skoða fileið þú getur ekki breytt því eða eytt því.
+#### 6) What needs to be changed to allow any remote useer to make changes in the ShareXX folder? þú munt þurfa að clicka við full control svo að aðrir remote userar geta breytt og eytt fileum.
+#### 7) Can you open the Breif File? Já get opnað hana
+#### 8) Can you delete the Breif File? what happens? Já átt að geta eytt henni, hvað gerist ekkert sérstakt eyðir bara fileinnu 
+#### 9) What can you do to assign a drive letter to your partner shared folder? Þú ýtir á map network Drive og svo þarft þú að velja lausan bókstaf fyrir drive-ið
+### Lab 11.5.6.2 - Windows Remote Desktop and Assistance
+#### 1) Record the name of this computer? DESKTOP-4H3P1IO
+#### 2) What is the current remote desktop port? 3389  
+#### 3) What CLI command would you use to get the ip of the computer? ipconfig
+#### 4) Create a new user, what is the Username and Password? Username : nemandi password : pass123
+#### 5) What message is displayed on the remote computer and how much time is mentioned? Það komu einginn skilaboð
+#### 6) What is the default amount of time remote assistance invitations remain open? 6 klukkutíma
+#### 7) What are the ways to send an invitation to a trusted person with Remote Assistance? Getur save-að invitation file, sent þeim í emaili eða notað Easy conntact
+#### 8) What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop? Besta notkunnin fyrir Remote Assistance er að hjálpa notanda til að trouble shoota vandamál í tölvunni sinni.
+#### 9) How many simultaneous users can access a Windows computer at a single time? það getur bara einn tengst við í einu
+#### 10) What type of security components are implemented with Windows Remote Desktop? Authencication og encryption
+#### 11) How could remote desktop be used as a beneficial technology in the workplace? til dæmis að geta tengst vinnutölvum heima eða get tengst við servera fyrir stór fyrirtæki
 #### 
 ####
 ####
