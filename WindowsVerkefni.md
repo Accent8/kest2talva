@@ -201,11 +201,11 @@
 ####
 ####
 ####
-####
-####
-#### 
-####
-####
+### Lab 11.5.2.4 - Share Resources með Mikael
+#### 1) What is the name of your computer? DESKTOP-4H3P1IO, og shared fileið mitt er ShareHreimur
+#### 2) What is the name of your partner's computer and shared folder? DESKTOP-JKJ20SJ shared mappan var ShareMA.
+#### 3) Can you open the Breif.txt file on your partners computer? Já gat opnað hana
+#### 4) Can you delete the Breif file? what happens? Fæ glugga upp sem segir mér að ég get ekki eytt henni útaf ég er ekki með leyfið í það
 ####
 ####
 ####
