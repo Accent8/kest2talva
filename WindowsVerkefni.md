@@ -206,7 +206,7 @@
 #### 4) enter the chkdsk command to check the C:\ drive, what happened? fór í gengnum drive-ið
 #### 5) What is the file system of the drive? drive-ið er NTFS
 #### 6) enter the list partition to list all th partitions on the disk, how many partitions are on the disk? ![image](https://user-images.githubusercontent.com/114400552/215101957-81fcfd68-ecd1-49fe-a5d2-481012e5d5fd.png)
-#### 7) What is the maximum number of reclaimable bytes? 
+#### 7) What is the maximum number of reclaimable bytes? ![image](https://user-images.githubusercontent.com/114400552/215102968-4776997a-068e-4659-af29-0af139cdf5bc.png)
 ####
 ####
 ####
