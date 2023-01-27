@@ -205,7 +205,7 @@
 #### 3) what is the option to locate bad sectors and recover readable information? chkdsk /R
 #### 4) enter the chkdsk command to check the C:\ drive, what happened? fór í gengnum drive-ið
 #### 5) What is the file system of the drive? drive-ið er NTFS
-#### 6) enter the list partition to list all th partitions on the disk, how many partitions are on the disk? ![image](https://user-images.githubusercontent.com/114400552/215101707-53994074-17b4-4a2a-afb1-fbbb06c6282a.png) 
+#### 6) enter the list partition to list all th partitions on the disk, how many partitions are on the disk?![image](https://user-images.githubusercontent.com/114400552/215100981-7c2fe850-ec27-4051-9a68-7e007afa0782.png)
 ####
 ####
 ####
