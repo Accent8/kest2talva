@@ -206,132 +206,22 @@
 #### 4) enter the chkdsk command to check the C:\ drive, what happened? fór í gengnum drive-ið
 #### 5) What is the file system of the drive? drive-ið er NTFS
 #### 6) enter the list partition to list all th partitions on the disk, how many partitions are on the disk? ![image](https://user-images.githubusercontent.com/114400552/215101957-81fcfd68-ecd1-49fe-a5d2-481012e5d5fd.png)
-#### 7) What is the maximum number of reclaimable bytes? ![image](https://user-images.githubusercontent.com/114400552/215102968-4776997a-068e-4659-af29-0af139cdf5bc.png)
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
-####
-####
-####
-####
-####
-####
-#### 
+#### 7) What option is used to determine the maximum number of bytes that the volume can be shrink by? shrink QUERYMAX
+#### 8) What is the maximum number of reclaimable bytes? ![image](https://user-images.githubusercontent.com/114400552/215102968-4776997a-068e-4659-af29-0af139cdf5bc.png) en svo eftir að fikta smá fór það í 1282 MB
+### Lab 11.4.4.2  - Task and System CLI Commands
+#### 1) what command would you use to display the results of tasklist one page at a time? tasklist | more
+#### 2) What ist the option to list the modules that are associated with a task? tasklist /M
+#### 3) What command would you use if you want to find all the task that use the module oleaut32.dll and list a few tasks that use it? þú myndir nota "tasklist /M oleaut32.dll" og nokkur tasks sem nota það eru t.d. chrome.exe, OneDrive.exe og notepad.exe
+#### 4) What command would you use to find all tasks that are associated with your username? tasklist /fi "username eq Nemandi"
+#### 5) What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes? tasklist /fi "cputime gt 01:40:00"
+#### 6) what command would you use if you wanted to terminate all the process owned by a particular user? taskkill /fi "username eq Nemand" fyrir okkur
+#### 7) what option would you use if you only wanted to scan the integrity of all the proctected system files? sfc /verifyonly 
+#### 8) what command would you add to the command so you can view the output one page at a time? dism /online /get-drivers /all /format:table | more
+#### 9) Enter the comand to log off your computer. Record the command below: shutdown /l
+#### 10) shut down the computer in 120 seconds using the command line, what warning message did you see? shutdown /s /t 120. og svo fékk ég flotta viðvörun um að Windows myndi slökkva á sér eftir 2 mínútur
+#### 11) What command would you use to abort the shutdown? shutdown /a
+### Lab 11.4.5.3 - Other Useful Commands, sleppa step 2 í part 2
+#### 1) Create a user, when does the password expire? 10/3/2023 kl 14:34
 ### Lab 11.5.2.4 - Share Resources með Mikael
 #### 1) What is the name of your computer? DESKTOP-4H3P1IO, og shared fileið mitt er ShareHreimur
 #### 2) What is the name of your partner's computer and shared folder? DESKTOP-JKJ20SJ shared mappan var ShareMA.
