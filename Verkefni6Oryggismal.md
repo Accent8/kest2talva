@@ -6,8 +6,91 @@
 | :---        |    :----   |
 | Enforce password history    | 8  |
 | Maximum password age   |  90 dagar  |
-| mMinimum password age      | 1 sinni á dag |
+| Minimum password age      | 1 sinni á dag |
 | Minimum password length        |  8 stafir   |
 | Password must meet complexity requirements     | Enabled   |
 | Store password using reversible encryption   | Disabled     |
 #### 2) according to the security policy how many times is a user allowed to attempt to login before the account is locked? Hann má reyna 5 sinnum áður en accountinum verður læst
+#### 3) How long should the user have to wait before attempting to lag back in? Hann þarf að bíða í 5 mínútur
+#### 4) Are there any settings you would change in User rights assignment? Why? Ég myndi kannski breyta "Access this computer from the network" bara ef þú ert með magar vélar á netinnu þá ef þú missir "stjórn" (einhver hackar sig inn) getur hann ekki komist á fleirri tölvur
+| Policy     | Security Setting |
+| :---        |    :----   |
+| Interactive Logon: Machine inactivity limit    | 1800 seconds  |
+| Devices: Allow undock without having to log on   |  Disabled  |
+| Interactive logon: Message title for users attempting to log on      | Caution: |
+| Change the Interactive logon: Message text for users attempting to log on |  Your activity is monitored. This computer is for business use only.   |
+| Interactive logon: Prompt user to change password before expiration | 7 Days  |
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
+####
