@@ -20,12 +20,12 @@
 | Interactive logon: Message title for users attempting to log on      | Caution: |
 | Change the Interactive logon: Message text for users attempting to log on |  Your activity is monitored. This computer is for business use only.   |
 | Interactive logon: Prompt user to change password before expiration | 7 Days  |
-####
-####
-####
-####
-####
-####
+### Lab 13.3.4.6 Lab - Configure Windows Firewall (Tveir hópar saman) - Með Mikeal
+#### 1) Under PC-1 can you see the Cisco folder? já get séð folderið
+#### 2) What are the benefits of Windows Firewall? það getur varið tölvunna þína frá hökkurum eða forritum sem geta skemmt tölvunna með að stoppa tengingar við tölvunna í gengum netið.
+#### 3) Describe a negative consequence of having too many exceptions? einfaltlega sagt það gerir það bara léttara fyrir hakkara að komast inn, getur horft á það að gera magar holur í vegginn, bara léttara að komast inn
+#### 4) can you connect to PC-1? nei gat það ekki eftir að hann breytti stillingum
+#### 
 ####
 ####
 ####
