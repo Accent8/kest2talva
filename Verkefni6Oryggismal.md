@@ -46,10 +46,10 @@
 #### 13) Now go to C\ and try to create a text document, Were you successful? Explain. Nei útaf því að Student02 hefur ekki réttindi hér til að búa til file. Útaf því hann er ekki með ITEStaff groupuna
 #### 14) as Student01 can you edit the file in Student02 and place a text document in the Staff folder? Já og nei, þú getur breytt fileinu í Student02 þar sem hann hefur rétt þar, en þar sem hann er ekki með ITEStaff groupið getur hann ekki gert neitt í Staff folderinnu.
 #### 15) Now go on Student02 and try to change files in Student01 and Student02 folders, can you do it? Hann getur bara breytt í Studnet02 eftir að við breyttum 
-#### 16) 
-####
-####
-####
+#### 16) As Staff01 Were you able to access the content in the folders Staff, Student\Student01 and Student\Student02? Explain. Já þar sem Staff01 er með grouppið ITEStaff kemst hann í bæði folderinn.
+#### 17) Disable Staff02, can you log in as Staff02? Nei þar sem hann er disabled kemur hann ekki einu sinni upp á listanum af userum og þú getur ekki loggað þig inn.
+#### 18) How would you give administrative privileges on the local computer to all the members of ITEStaff? Þú gerir það með að bæta ITEStaff hópnum í Administrator hópinn
+#### 19) How would you deny access to a file for everyone except the owner? þú gerir það með að fara í security á folderinnu og gefur fulla stjórn á eigandann og stillir þannig að einginn annar hefur aðgang
 ####
 ####
 ####
