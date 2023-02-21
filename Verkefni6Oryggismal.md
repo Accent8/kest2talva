@@ -35,18 +35,18 @@
 #### 2) Select the Groups folder, Name five groups from the list. Guest, Replicator, Administrator, Power Users og Device Owners.
 #### 3) Which group does your account belong to? Users og Administrators
 #### 4) What is Student01 required to do when logging in the first time? hann þarft að breyta lykilorðinnu sínu
-#### 5) 
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
+#### 5) What group does User01 belong to? Users
+#### 6) What does it say in the description of the Users group? Users are prevented from makin accidental or intentional system wide changes and can run most applications.
+#### 7) Who are the group members? á tölvunni eru til dæmis: Hreimur, Mohammed, Student01 og User1
+#### 8) Go onto User1 and try to create a new account, what happens? fékk skilaboð sem segja Access Denied. getur ekki gert account útaf þú er í user groupunni, eitthvað svoleiðs
+#### 9) Were you able to navigate to www.cisco.com? Explain. Já gat það, sem user getur þú notað flest öll forrit á tölvunni 
+#### 10) With the group ITEStaff highlighted, what can the members do in this folder? memberar af ITEStaff groupunni hafa read & execute, lista folder fjölda og read leyfi
+#### 11) Which additional checkbox would you select? þú myndir checka í Full Control checkbox.
+#### 12) Navigate to C\Students and create a folder named Student02, log in as Student02, Create a text document in Student02 Were you successful? Explain. Já sem partur af ITEStudent groupunni, Student02 hefur flest réttindi hér
+#### 13) Now go to C\ and try to create a text document, Were you successful? Explain. Nei útaf því að Student02 hefur ekki réttindi hér til að búa til file. Útaf því hann er ekki með ITEStaff groupuna
+#### 14) as Student01 can you edit the file in Student02 and place a text document in the Staff folder? Já og nei, þú getur breytt fileinu í Student02 þar sem hann hefur rétt þar, en þar sem hann er ekki með ITEStaff groupið getur hann ekki gert neitt í Staff folderinnu.
+#### 15) Now go on Student02 and try to change files in Student01 and Student02 folders, can you do it? Hann getur bara breytt í Studnet02 eftir að við breyttum 
+#### 16) 
 ####
 ####
 ####
