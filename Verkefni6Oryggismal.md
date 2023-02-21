@@ -25,17 +25,17 @@
 #### 2) What are the benefits of Windows Firewall? það getur varið tölvunna þína frá hökkurum eða forritum sem geta skemmt tölvunna með að stoppa tengingar við tölvunna í gengum netið.
 #### 3) Describe a negative consequence of having too many exceptions? einfaltlega sagt það gerir það bara léttara fyrir hakkara að komast inn, getur horft á það að gera magar holur í vegginn, bara léttara að komast inn
 #### 4) can you connect to PC-1? nei gat það ekki eftir að hann breytti stillingum
-#### 
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
+#### 5) Did you receive an error message on PC-2? If so, what was the Error message? Já villu skilaboðinn sögðu að ég gat ekki tengt við hina tölvunna
+#### 6) re-open printer and file sharing can you now connect to PC1? já gat það núna vegna þess að file og printer sharing var ekki lengur blockað af fire wallinu
+#### 7) List the short name of four services that are available in the Customize Service Settnigs window: AeLookupSvc, Appinfo, ALG, AppMgmt 
+#### 8) List four of the Specific ICMP types. Echo Reply, Unassigned  Unassigned, Destination Unreachable.
+#### 9) What are some possible reasons you may need to make firewall changes? default stillingin á firewallinu er með flest öpp blockuð, þú gætir þurft að hleypa sumum í geng til að þau virki almennilega
+### Lab 13.3.3.6 Configure Users and Groups in Windows
+#### 1) What are the names of the accounts listed? Administrator, DefaultAccount, Faraam, Guest, Hreimur, Mohammed, Nemandi, oli, swaggertemp og User1
+#### 2) Select the Groups folder, Name five groups from the list. Guest, Replicator, Administrator, Power Users og Device Owners.
+#### 3) Which group does your account belong to? Users og Administrators
+#### 4) What is Student01 required to do when logging in the first time? hann þarft að breyta lykilorðinnu sínu
+#### 5) 
 ####
 ####
 ####
